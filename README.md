@@ -27,6 +27,7 @@ Spam detection using Python involves building a machine learning model to classi
      - **Support Vector Machines (SVM)**: Used for finding the optimal boundary between classes.
      - **Logistic Regression**: A probabilistic model used for binary classification.
      - **Random Forests**: An ensemble method that uses multiple decision trees to improve accuracy.
+     - **and Decision Tree Method**
     
 ### 5. **Model Training**
    - **Train-Test Split**: The dataset is split into training and testing sets (commonly 70-80% for training and 20-30% for testing).
